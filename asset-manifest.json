@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GitHubManager-React-Redux/static/css/main.fae039ef.chunk.css",
+    "main.js": "/GitHubManager-React-Redux/static/js/main.b4adc276.chunk.js",
+    "main.js.map": "/GitHubManager-React-Redux/static/js/main.b4adc276.chunk.js.map",
+    "runtime-main.js": "/GitHubManager-React-Redux/static/js/runtime-main.e96ec7ea.js",
+    "runtime-main.js.map": "/GitHubManager-React-Redux/static/js/runtime-main.e96ec7ea.js.map",
+    "static/js/2.0012246c.chunk.js": "/GitHubManager-React-Redux/static/js/2.0012246c.chunk.js",
+    "static/js/2.0012246c.chunk.js.map": "/GitHubManager-React-Redux/static/js/2.0012246c.chunk.js.map",
+    "index.html": "/GitHubManager-React-Redux/index.html",
+    "precache-manifest.68606e2ba818a58fcc4efd3e0921afe3.js": "/GitHubManager-React-Redux/precache-manifest.68606e2ba818a58fcc4efd3e0921afe3.js",
+    "service-worker.js": "/GitHubManager-React-Redux/service-worker.js",
+    "static/css/main.fae039ef.chunk.css.map": "/GitHubManager-React-Redux/static/css/main.fae039ef.chunk.css.map",
+    "static/js/2.0012246c.chunk.js.LICENSE.txt": "/GitHubManager-React-Redux/static/js/2.0012246c.chunk.js.LICENSE.txt",
+    "static/media/loading-arrow.gif": "/GitHubManager-React-Redux/static/media/loading-arrow.e9ea7394.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e96ec7ea.js",
+    "static/js/2.0012246c.chunk.js",
+    "static/css/main.fae039ef.chunk.css",
+    "static/js/main.b4adc276.chunk.js"
+  ]
+}
